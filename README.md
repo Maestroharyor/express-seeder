@@ -9,7 +9,7 @@ npm i express-seeder
 ```
 
 # How to Use
-```
+```javascript
 const { Seeder } = require('express-seeder')
 
 Seeder(data, model)
@@ -17,7 +17,7 @@ Seeder(data, model)
 
 # Data Format
 A json or Javascript object format which should be an array of object
-```
+```javascript
 [
   {
     "question": "which of these names did not reflect in the book of Genesis?",
