@@ -1,6 +1,6 @@
 {
   "name": "express-seeder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight mongodb database seeder for nodejs",
   "main": "index.js",
   "scripts": {
